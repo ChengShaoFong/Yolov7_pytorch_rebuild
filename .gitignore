@@ -1,0 +1,6 @@
+*.pt
+*.png
+*.onnx
+
+dataset/
+runs/

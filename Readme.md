@@ -8,4 +8,4 @@
 * matplotlib
 * pillow
 
-## 該Repo 建構 yolov7 block 方法
+## 建構 yolov7 block 方法
